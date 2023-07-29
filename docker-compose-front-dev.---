@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  database:
+    image: mongo
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+    networks:
+      - dev
+    volumes:
+      - dbdata6:/data/db
+
+  backend:
+    depends_on:
+      - database
+    build:
+      context: ./backend
+    stdin_open: true # docker run -i
+    tty: true # docker run -t
+    links:
+      - database
+    networks:
+      - dev
+    ports:
+      - '8080:8080'
+
+networks:
+  dev:

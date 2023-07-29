@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "621eefea751d58add57b8e22"
+  },
+  "name": "Leonardo DiCaprio",
+  "slug": "leo-dicaprio",
+  "photo": "/uploads/actors/leo.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646194666146"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646194717343"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621ef05d751d58add57b8e2a"
+  },
+  "name": "Morgan Freeman",
+  "slug": "morgan-freeman",
+  "photo": "/uploads/actors/freeman.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646194781997"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646194786670"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621ef066751d58add57b8e2f"
+  },
+  "name": "Mahershalalhashbaz Ali",
+  "slug": "mah-ali",
+  "photo": "/uploads/actors/ali.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646194790824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646194839444"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bcf64bc3c876b7b3bf40"
+  },
+  "name": "David McConaughey",
+  "slug": "david-mc",
+  "photo": "/uploads/actors/matthew.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640374102"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640471224"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bd5a4bc3c876b7b3bf58"
+  },
+  "name": "Anne Hathaway",
+  "slug": "anne-hath",
+  "photo": "/uploads/actors/anne.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640474629"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640490009"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bd6b4bc3c876b7b3bf69"
+  },
+  "name": "Ryan Gosling",
+  "slug": "ryan-gos",
+  "photo": "/uploads/actors/ryan.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640491449"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640502502"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bd774bc3c876b7b3bf7a"
+  },
+  "name": "Harrison Ford",
+  "slug": "harrison-ford",
+  "photo": "/uploads/actors/ford.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640503733"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640516443"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bd854bc3c876b7b3bf8b"
+  },
+  "name": "Charlie Hunnam",
+  "slug": "charlie",
+  "photo": "/uploads/actors/hunnam.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640517510"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640528437"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bd914bc3c876b7b3bf9c"
+  },
+  "name": "Milla Jovovich",
+  "slug": "milla-jovo",
+  "photo": "/uploads/actors/milla.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640529975"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640547143"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bda64bc3c876b7b3bfad"
+  },
+  "name": "Lucas York Black",
+  "slug": "lucas-york",
+  "photo": "/uploads/actors/black.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640550276"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640583792"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bdc84bc3c876b7b3bfcb"
+  },
+  "name": "Christian Bale",
+  "slug": "blue",
+  "photo": "/uploads/actors/bale.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640584593"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640597423"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225bdd64bc3c876b7b3bfdc"
+  },
+  "name": "Tom Hardy",
+  "slug": "tom-hardy",
+  "photo": "/uploads/actors/tom-hardy.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646640598505"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646640610194"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,463 @@
+[{
+  "_id": {
+    "$oid": "621efb6a85f2eafa2adf9f24"
+  },
+  "poster": "/uploads/movies/inception.jpg",
+  "bigPoster": "/uploads/movies/john-wick.jpg",
+  "title": "Inception",
+  "description": "",
+  "slug": "inception",
+  "rating": 5,
+  "videoUrl": "/uploads/movies/inception.mp4",
+  "countOpened": 2,
+  "genres": [
+    {
+      "$oid": "621e154c22ee662f8ca5300a"
+    },
+    {
+      "$oid": "621e17b145cc4db2832daa55"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "621eefea751d58add57b8e22"
+    },
+    {
+      "$oid": "6225bdd64bc3c876b7b3bfdc"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646197610691"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664266943999"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2010,
+    "duration": 148,
+    "country": "USA, UK",
+    "_id": {
+      "$oid": "621f5c0636ed3a128faeac6a"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "622069cc215769fe6d375cd0"
+  },
+  "poster": "/uploads/movies/shawsnak.jpg",
+  "bigPoster": "/uploads/movies/mad-max.jpg",
+  "title": "The Shawshank Redemption",
+  "slug": "shaw-shank",
+  "rating": 4,
+  "videoUrl": "/uploads/movies/shawsnak.mp4",
+  "countOpened": 5,
+  "genres": [
+    {
+      "$oid": "621e17b145cc4db2832daa55"
+    },
+    {
+      "$oid": "621e154c22ee662f8ca5300a"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "621ef05d751d58add57b8e2a"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646291404618"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664267331294"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 1994,
+    "duration": 142,
+    "country": "USA",
+    "_id": {
+      "$oid": "62206a13215769fe6d375cd3"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62206a16215769fe6d375cd7"
+  },
+  "poster": "/uploads/movies/green-book.jpg",
+  "bigPoster": "/uploads/movies/ip-man.jpg",
+  "title": "Green Book",
+  "slug": "green-book",
+  "rating": 4,
+  "videoUrl": "/uploads/movies/green-book.mp4",
+  "countOpened": 0,
+  "genres": [
+    {
+      "$oid": "6225b0614bc3c876b7b3bee5"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "621ef066751d58add57b8e2f"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646291478430"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664266887788"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2018,
+    "duration": 130,
+    "country": "USA, China",
+    "_id": {
+      "$oid": "62206a6e215769fe6d375cda"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "622602ee4bc3c876b7b3c03a"
+  },
+  "poster": "/uploads/movies/interstellar.jpg",
+  "bigPoster": "/uploads/movies/i-am-legend-big.jpg",
+  "title": "Interstellar",
+  "slug": "interstellar",
+  "rating": 5,
+  "videoUrl": "/uploads/movies/interstellar.mp4",
+  "countOpened": 1,
+  "genres": [
+    {
+      "$oid": "621e17b145cc4db2832daa55"
+    },
+    {
+      "$oid": "621e154c22ee662f8ca5300a"
+    },
+    {
+      "$oid": "6225b0394bc3c876b7b3bec5"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "6225bcf64bc3c876b7b3bf40"
+    },
+    {
+      "$oid": "6225bd5a4bc3c876b7b3bf58"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646658286867"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664266863400"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2014,
+    "duration": 169,
+    "country": "USA, UK, Canada",
+    "_id": {
+      "$oid": "622603ef6df4b259c79ecd30"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "622604466df4b259c79ecd87"
+  },
+  "poster": "/uploads/movies/street.jpg",
+  "bigPoster": "/uploads/movies/hobbit.jpg",
+  "title": "Wolf of Wall Street",
+  "slug": "wolf-of-street",
+  "rating": 4,
+  "videoUrl": "/uploads/movies/street.mp4",
+  "countOpened": 1,
+  "genres": [
+    {
+      "$oid": "6225b0614bc3c876b7b3bee5"
+    },
+    {
+      "$oid": "6225afd34bc3c876b7b3beaf"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "621eefea751d58add57b8e22"
+    },
+    {
+      "$oid": "6225bcf64bc3c876b7b3bf40"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646658630602"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664267273843"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2013,
+    "duration": 180,
+    "country": "USA",
+    "_id": {
+      "$oid": "622604ae6df4b259c79ecd95"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "622604b06df4b259c79ecda5"
+  },
+  "poster": "/uploads/movies/runner.jpg",
+  "bigPoster": "/uploads/movies/avatar.jpg",
+  "title": "Blade Runner 2049",
+  "slug": "blade",
+  "rating": 5,
+  "videoUrl": "/uploads/movies/runner.mp4",
+  "countOpened": 16,
+  "genres": [
+    {
+      "$oid": "6225b0394bc3c876b7b3bec5"
+    },
+    {
+      "$oid": "621e17b145cc4db2832daa55"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "6225bd6b4bc3c876b7b3bf69"
+    },
+    {
+      "$oid": "6225bd774bc3c876b7b3bf7a"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646658736115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664283015405"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2017,
+    "duration": 164,
+    "country": "USA, UK,  Canada, Spain",
+    "_id": {
+      "$oid": "622605366df4b259c79ecdb3"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6226053a6df4b259c79ecdc4"
+  },
+  "poster": "/uploads/movies/gentelmen.jpg",
+  "bigPoster": "/uploads/movies/spider-man-new (1).jpeg",
+  "title": "The Gentlemen",
+  "slug": "gentelemen",
+  "rating": 4,
+  "videoUrl": "/uploads/movies/gentelmen.mp4",
+  "countOpened": 2,
+  "genres": [
+    {
+      "$oid": "621e154c22ee662f8ca5300a"
+    },
+    {
+      "$oid": "6225b0614bc3c876b7b3bee5"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "6225bcf64bc3c876b7b3bf40"
+    },
+    {
+      "$oid": "6225bd854bc3c876b7b3bf8b"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646658874668"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664267248264"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2019,
+    "duration": 113,
+    "country": "USA, UK",
+    "_id": {
+      "$oid": "622605906df4b259c79ecdd2"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "622605926df4b259c79ecde4"
+  },
+  "poster": "/uploads/movies/element.jpg",
+  "bigPoster": "/uploads/movies/red-dog.jpg",
+  "title": "The Fifth Element",
+  "slug": "fifth-element",
+  "rating": 4,
+  "videoUrl": "/uploads/movies/element.mp4",
+  "countOpened": 3,
+  "genres": [
+    {
+      "$oid": "621e17b145cc4db2832daa55"
+    },
+    {
+      "$oid": "621e154c22ee662f8ca5300a"
+    },
+    {
+      "$oid": "6225b0394bc3c876b7b3bec5"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "6225bd914bc3c876b7b3bf9c"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646658962382"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664266740827"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 1997,
+    "duration": 126,
+    "country": "France, UK",
+    "_id": {
+      "$oid": "622605d36df4b259c79ecdf2"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "622605d46df4b259c79ece05"
+  },
+  "poster": "/uploads/movies/tokyo.jpg",
+  "bigPoster": "/uploads/movies/shan-chi.jpg",
+  "title": "F&F Tokyo Drift",
+  "slug": "tokyo-drift",
+  "rating": 5,
+  "videoUrl": "/uploads/movies/tokyo.mp4",
+  "countOpened": 6,
+  "genres": [
+    {
+      "$oid": "621e154c22ee662f8ca5300a"
+    },
+    {
+      "$oid": "6225b0614bc3c876b7b3bee5"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "6225bda64bc3c876b7b3bfad"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646659028984"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664266701216"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2006,
+    "duration": 104,
+    "country": "USA, Germany, Japan",
+    "_id": {
+      "$oid": "622606336df4b259c79ece14"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "622606346df4b259c79ece28"
+  },
+  "poster": "/uploads/movies/dark-knight.jpg",
+  "bigPoster": "/uploads/movies/encanto-big.jpg",
+  "title": "The Dark Knight",
+  "slug": "dark-knight",
+  "rating": 5,
+  "videoUrl": "/uploads/movies/dark-knight.mp4",
+  "countOpened": 24,
+  "genres": [
+    {
+      "$oid": "6225b0614bc3c876b7b3bee5"
+    },
+    {
+      "$oid": "621e154c22ee662f8ca5300a"
+    }
+  ],
+  "actors": [
+    {
+      "$oid": "6225bdc84bc3c876b7b3bfcb"
+    },
+    {
+      "$oid": "621ef05d751d58add57b8e2a"
+    }
+  ],
+  "isSendTelegram": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646659124995"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664509882182"
+    }
+  },
+  "__v": 0,
+  "parameters": {
+    "year": 2008,
+    "duration": 152,
+    "country": "USA, UK",
+    "_id": {
+      "$oid": "622606776df4b259c79ece36"
+    }
+  }
+}]

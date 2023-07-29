@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "621e154c22ee662f8ca5300a"
+  },
+  "name": "Action",
+  "slug": "action",
+  "description": "<p>Do you like <strong>movies</strong> with cool characters and large-scale action scenes? Find the best action movies with your favorite actor or watch the latest releases.</p>",
+  "icon": "MdSportsKabaddi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646138700277"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646139259918"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621e178945cc4db2832daa50"
+  },
+  "name": "Horror",
+  "slug": "horror",
+  "description": "<p>Some people can`t stand horror movies, while others love the thrill of watching and try not to miss a single horror movie. If you donzt mind tickling your nerves, watch the best pictures in FullHD.</p>",
+  "icon": "MdOfflineBolt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646139273866"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646139309242"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621e17b145cc4db2832daa55"
+  },
+  "name": "Adventure",
+  "slug": "adventure",
+  "description": "<p>A good <strong>adventure</strong> movie is the best way to escape from your usual life at least for a while and imagine yourself on board a spaceship or on a lonely raft in the endless ocean.</p>\n",
+  "icon": "MdHiking",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646139313033"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646634278239"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225afd34bc3c876b7b3beaf"
+  },
+  "name": "Biography",
+  "slug": "biography",
+  "description": "<p>Biopics tell us the stories of prominent personalities and therefore enjoy great audience love. These stories can inspire or repulse, but will not leave you indifferent.</p>\n",
+  "icon": "MdFace",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646637011695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646637111269"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225b0394bc3c876b7b3bec5"
+  },
+  "name": "Fantasy",
+  "slug": "fantasy",
+  "description": "<p><br></p>\n",
+  "icon": "MdAutoFixHigh",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646637113394"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663915176721"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225b04c4bc3c876b7b3bed5"
+  },
+  "name": "Cartoons",
+  "slug": "cartoons",
+  "description": "<p>You can watch the best cartoons online. Cartoon masterpieces from different countries will definitely cheer you up, take you into the world of magic and unprecedented adventures. In our catalog you will find both Soviet cartoons familiar from childhood, as well as premieres from Hollywood studios such as Disney. Show your kids your favorite animation and discover new fairy-tale worlds together!</p>\n",
+  "icon": "MdFamilyRestroom",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646637132904"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646637151897"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225b0614bc3c876b7b3bee5"
+  },
+  "name": "Comedy",
+  "slug": "comedy",
+  "description": "<p><b>Comedy</b> is good genre</p>\n",
+  "icon": "MdEmojiEmotions",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646637153985"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663915742954"
+    }
+  },
+  "__v": 0
+}]
